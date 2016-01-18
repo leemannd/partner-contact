@@ -25,4 +25,8 @@
     "data": [
         "views/res_partner.xml",
     ],
+<<<<<<< HEAD
+=======
+    'installable': True,
+>>>>>>> d6befbc36dd3a177a48da37bba1c615391e1fb5e
 }
