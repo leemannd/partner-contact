@@ -8,7 +8,6 @@
     "version": "9.0.1.1.0",
     "category": "Customer Relationship Management",
     "website": "https://odoo-community.org/",
-<<<<<<< HEAD
     "author": "Grupo ESOC, Odoo Community Association (OCA)",
     "contributors": [
         'Jairo Llopis <j.llopis@grupoesoc.es>',
@@ -18,11 +17,7 @@
     'application': False,
     'installable': True,
     'auto_install': False,
-=======
-    'installable': True,
-    "application": False,
     "summary": "Add gender field to contacts",
->>>>>>> d6befbc36dd3a177a48da37bba1c615391e1fb5e
     "depends": [
         "base",
     ],
