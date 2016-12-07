@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-# © 2015 Camptocamp SA
+# © 2015-2016 Camptocamp SA
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {'name': 'Partner Changesets',
- 'version': '8.0.1.0.0',
+ 'version': '9.0.1.0.0',
  'author': 'Camptocamp, Odoo Community Association (OCA)',
  'license': 'AGPL-3',
  'category': 'Sales Management',

@@ -154,6 +154,7 @@ Contributors
 ------------
 
 * Guewen Baconnier <guewen.baconnier@camptocamp.com>
+* Denis Leemann <denis.leemann@camptocamp.com>
 
 Maintainer
 ----------
