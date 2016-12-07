@@ -210,6 +210,7 @@ class TestChangesetFlow(ChangesetMixin, common.TransactionCase):
             (self.field_street2, 'street2 Y', 'draft'),
         ]
         changeset = self._create_changeset(self.partner, changes)
+        self.assertEqual(self.partner.count_pending_changesets, 1)
         changeset2 = self._create_changeset(partner2, changes)
         self.assertEqual(changeset.state, 'draft')
         self.assertEqual(changeset2.state, 'draft')

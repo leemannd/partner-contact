@@ -8,6 +8,7 @@
  'license': 'AGPL-3',
  'category': 'Sales Management',
  'depends': ['base',
+             'sale',
              ],
  'website': 'http://www.camptocamp.com',
  'data': ['security/security.xml',
